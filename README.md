@@ -1,2 +1,2 @@
-# Estad-stica
+# Estadistica
 Guía básica de Estadística
